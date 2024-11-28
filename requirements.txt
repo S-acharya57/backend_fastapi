@@ -1,1 +1,10 @@
 fastapi[all]
+ultralytics==8.2.52
+ultralytics-thop==2.0.0
+torch==2.2.2+cu118
+pytesseract==0.3.10
+pillow==11.0.0
+
+transformers @ git+https://github.com/huggingface/transformers@e6889961761eba27ac13a30aa12444a6f4406f78
+huggingface-hub==0.24.6
+# python 3.11.4
